@@ -18,3 +18,4 @@
     d. Jump Search<br />
     e. Exponential Search<br />
 5. Strassen Matrix Multiplication Algorithm
+6. Counting Inversion Algorithm
